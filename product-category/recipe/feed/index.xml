@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Recipe Books &#8211; NhatKoThieuNang</title>
+	<atom:link href="https://potatomat0.github.io/HoangMinhNhat710WP/product-category/recipe/feed/" rel="self" type="application/rss+xml" />
+	<link>https://potatomat0.github.io/HoangMinhNhat710WP</link>
+	<description>Nhật đang làm CMS</description>
+	<lastBuildDate>Mon, 03 Oct 2022 02:34:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://potatomat0.github.io/HoangMinhNhat710WP/wp-content/uploads/2022/09/WordpressLogo.png</url>
+	<title>Recipe Books &#8211; NhatKoThieuNang</title>
+	<link>https://potatomat0.github.io/HoangMinhNhat710WP</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>It&#8217;s a Really Strange Story</title>
+		<link>https://potatomat0.github.io/HoangMinhNhat710WP/product/its-a-really-strange/</link>
+					<comments>https://potatomat0.github.io/HoangMinhNhat710WP/product/its-a-really-strange/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoang Nhat]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 02:21:10 +0000</pubDate>
+				<guid isPermaLink="false">https://potatomat0.github.io/HoangMinhNhat710WP/?post_type=product&#038;p=788</guid>
+
+					<description><![CDATA[Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas sit odit aut fugit, sed quia consequuntur. Lorem ipsum dolor. Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt.]]></description>
+		
+					<wfw:commentRss>https://potatomat0.github.io/HoangMinhNhat710WP/product/its-a-really-strange/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>New Galaxy</title>
+		<link>https://potatomat0.github.io/HoangMinhNhat710WP/product/new-galaxy/</link>
+					<comments>https://potatomat0.github.io/HoangMinhNhat710WP/product/new-galaxy/#comments</comments>
+		
+		<dc:creator><![CDATA[Hoang Nhat]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 01:22:39 +0000</pubDate>
+				<guid isPermaLink="false">https://potatomat0.github.io/HoangMinhNhat710WP/?post_type=product&#038;p=765</guid>
+
+					<description><![CDATA[Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas sit odit aut fugit, sed quia consequuntur. Lorem ipsum dolor. Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt.]]></description>
+		
+					<wfw:commentRss>https://potatomat0.github.io/HoangMinhNhat710WP/product/new-galaxy/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
