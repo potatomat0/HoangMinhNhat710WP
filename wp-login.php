@@ -80,7 +80,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myprojects\/wordpress\/wp-admin\/admin-a
 </script>
 <script src="https://potatomat0.github.io/HoangMinhNhat710WP/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"f778d0bb12"};
+var userProfileL10n = {"user_id":"0","nonce":"a5417df094"};
 </script>
 <script src="https://potatomat0.github.io/HoangMinhNhat710WP/wp-admin/js/user-profile.min.js?ver=6.0.2" id="user-profile-js"></script>
 	<div class="clear"></div>
