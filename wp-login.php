@@ -5,11 +5,11 @@
 	<title>Log In &lsaquo; NhatKoThieuNang &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="https://potatomat0.github.io/HoangMinhNhat710WP/wp-includes/css/dashicons.min.css?ver=6.0.2" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://potatomat0.github.io/HoangMinhNhat710WP/wp-includes/css/buttons.min.css?ver=6.0.2" media="all">
-<link rel="stylesheet" id="forms-css" href="https://potatomat0.github.io/HoangMinhNhat710WP/wp-admin/css/forms.min.css?ver=6.0.2" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://potatomat0.github.io/HoangMinhNhat710WP/wp-admin/css/l10n.min.css?ver=6.0.2" media="all">
-<link rel="stylesheet" id="login-css" href="https://potatomat0.github.io/HoangMinhNhat710WP/wp-admin/css/login.min.css?ver=6.0.2" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://potatomat0.github.io/HoangMinhNhat710WP/wp-includes/css/dashicons.min.css?ver=6.0.3" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://potatomat0.github.io/HoangMinhNhat710WP/wp-includes/css/buttons.min.css?ver=6.0.3" media="all">
+<link rel="stylesheet" id="forms-css" href="https://potatomat0.github.io/HoangMinhNhat710WP/wp-admin/css/forms.min.css?ver=6.0.3" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://potatomat0.github.io/HoangMinhNhat710WP/wp-admin/css/l10n.min.css?ver=6.0.3" media="all">
+<link rel="stylesheet" id="login-css" href="https://potatomat0.github.io/HoangMinhNhat710WP/wp-admin/css/login.min.css?ver=6.0.3" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 	<link rel="icon" href="https://potatomat0.github.io/HoangMinhNhat710WP/wp-content/uploads/2022/09/WordpressLogo.png" sizes="32x32">
@@ -73,16 +73,16 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script id="password-strength-meter-js-extra">
 var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
 </script>
-<script src="https://potatomat0.github.io/HoangMinhNhat710WP/wp-admin/js/password-strength-meter.min.js?ver=6.0.2" id="password-strength-meter-js"></script>
+<script src="https://potatomat0.github.io/HoangMinhNhat710WP/wp-admin/js/password-strength-meter.min.js?ver=6.0.3" id="password-strength-meter-js"></script>
 <script src="https://potatomat0.github.io/HoangMinhNhat710WP/wp-includes/js/underscore.min.js?ver=1.13.3" id="underscore-js"></script>
 <script id="wp-util-js-extra">
 var _wpUtilSettings = {"ajax":{"url":"\/myprojects\/wordpress\/wp-admin\/admin-ajax.php"}};
 </script>
-<script src="https://potatomat0.github.io/HoangMinhNhat710WP/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
+<script src="https://potatomat0.github.io/HoangMinhNhat710WP/wp-includes/js/wp-util.min.js?ver=6.0.3" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"a074512ea3"};
+var userProfileL10n = {"user_id":"0","nonce":"35cd5edd5a"};
 </script>
-<script src="https://potatomat0.github.io/HoangMinhNhat710WP/wp-admin/js/user-profile.min.js?ver=6.0.2" id="user-profile-js"></script>
+<script src="https://potatomat0.github.io/HoangMinhNhat710WP/wp-admin/js/user-profile.min.js?ver=6.0.3" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
 	</html>

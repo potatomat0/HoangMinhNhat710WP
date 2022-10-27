@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
 	<url>https://potatomat0.github.io/HoangMinhNhat710WP/wp-content/uploads/2022/09/WordpressLogo.png</url>
@@ -76,22 +76,6 @@
 		
 			</item>
 		<item>
-		<title>The Lord of the Rings</title>
-		<link>https://potatomat0.github.io/HoangMinhNhat710WP/product/the-lord-of-the-rings/</link>
-					<comments>https://potatomat0.github.io/HoangMinhNhat710WP/product/the-lord-of-the-rings/#respond</comments>
-		
-		<dc:creator><![CDATA[Hoang Nhat]]></dc:creator>
-		<pubDate>Mon, 17 Oct 2022 14:33:36 +0000</pubDate>
-				<guid isPermaLink="false">https://potatomat0.github.io/HoangMinhNhat710WP/?post_type=product&#038;p=867</guid>
-
-					<description><![CDATA[Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas sit odit aut fugit, sed quia consequuntur. Lorem ipsum dolor. Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt.]]></description>
-		
-					<wfw:commentRss>https://potatomat0.github.io/HoangMinhNhat710WP/product/the-lord-of-the-rings/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Nineteen Eight Four</title>
 		<link>https://potatomat0.github.io/HoangMinhNhat710WP/product/nineteen-eight-four/</link>
 					<comments>https://potatomat0.github.io/HoangMinhNhat710WP/product/nineteen-eight-four/#respond</comments>
@@ -124,17 +108,17 @@
 		
 			</item>
 		<item>
-		<title>The Hitchhiker&#8217;s guide to the Galaxy</title>
-		<link>https://potatomat0.github.io/HoangMinhNhat710WP/product/the-hitchhikers-guide-to-the-galaxy/</link>
-					<comments>https://potatomat0.github.io/HoangMinhNhat710WP/product/the-hitchhikers-guide-to-the-galaxy/#respond</comments>
+		<title>The Lord of the Rings</title>
+		<link>https://potatomat0.github.io/HoangMinhNhat710WP/product/the-lord-of-the-rings/</link>
+					<comments>https://potatomat0.github.io/HoangMinhNhat710WP/product/the-lord-of-the-rings/#respond</comments>
 		
 		<dc:creator><![CDATA[Hoang Nhat]]></dc:creator>
-		<pubDate>Mon, 17 Oct 2022 14:33:35 +0000</pubDate>
-				<guid isPermaLink="false">https://potatomat0.github.io/HoangMinhNhat710WP/?post_type=product&#038;p=858</guid>
+		<pubDate>Mon, 17 Oct 2022 14:33:36 +0000</pubDate>
+				<guid isPermaLink="false">https://potatomat0.github.io/HoangMinhNhat710WP/?post_type=product&#038;p=867</guid>
 
 					<description><![CDATA[Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas sit odit aut fugit, sed quia consequuntur. Lorem ipsum dolor. Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt.]]></description>
 		
-					<wfw:commentRss>https://potatomat0.github.io/HoangMinhNhat710WP/product/the-hitchhikers-guide-to-the-galaxy/feed/</wfw:commentRss>
+					<wfw:commentRss>https://potatomat0.github.io/HoangMinhNhat710WP/product/the-lord-of-the-rings/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -167,6 +151,22 @@
 					<description><![CDATA[Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas sit odit aut fugit, sed quia consequuntur. Lorem ipsum dolor. Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt.]]></description>
 		
 					<wfw:commentRss>https://potatomat0.github.io/HoangMinhNhat710WP/product/dune/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Hitchhiker&#8217;s guide to the Galaxy</title>
+		<link>https://potatomat0.github.io/HoangMinhNhat710WP/product/the-hitchhikers-guide-to-the-galaxy/</link>
+					<comments>https://potatomat0.github.io/HoangMinhNhat710WP/product/the-hitchhikers-guide-to-the-galaxy/#respond</comments>
+		
+		<dc:creator><![CDATA[Hoang Nhat]]></dc:creator>
+		<pubDate>Mon, 17 Oct 2022 14:33:35 +0000</pubDate>
+				<guid isPermaLink="false">https://potatomat0.github.io/HoangMinhNhat710WP/?post_type=product&#038;p=858</guid>
+
+					<description><![CDATA[Dicta sunt explicabo. Nemo enim ipsam voluptatem voluptas sit odit aut fugit, sed quia consequuntur. Lorem ipsum dolor. Aquia sit amet, elitr, sed diam nonum eirmod tempor invidunt.]]></description>
+		
+					<wfw:commentRss>https://potatomat0.github.io/HoangMinhNhat710WP/product/the-hitchhikers-guide-to-the-galaxy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
